@@ -1,6 +1,7 @@
 /*********************************************************************/
 /*  true sine hump UDF by Pete Gall                                  */
 /*  Modified by Chris Griffin 12-10-2010                             */
+/*  This UDF creates humps that vary with time                       */
 /*********************************************************************/
 
 #include "udf.h"
